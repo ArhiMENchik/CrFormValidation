@@ -1,5 +1,5 @@
 # Library for Data Validation on the Frontend
-[Link to Bitbucket repository](https://bitbucket.org/arhimen/crformvalidation/src/master/)
+[Link to GitHub repository](https://github.com/ArhiMENchik/CrFormValidation)
 
 ## Overview
 This library provides a simple interface for creating and validating forms on the frontend.
